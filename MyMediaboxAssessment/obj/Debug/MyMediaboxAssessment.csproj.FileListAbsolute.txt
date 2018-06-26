@@ -1,0 +1,7 @@
+C:\Users\Tom Ploetz\Documents\mymediabox_assessment\MyMediaboxAssessment\MyMediaboxAssessment\obj\Debug\MyMediaboxAssessment.csprojAssemblyReference.cache
+C:\Users\Tom Ploetz\Documents\mymediabox_assessment\MyMediaboxAssessment\MyMediaboxAssessment\obj\Debug\MyMediaboxAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Tom Ploetz\Documents\mymediabox_assessment\MyMediaboxAssessment\MyMediaboxAssessment\bin\Debug\MyMediaboxAssessment.exe.config
+C:\Users\Tom Ploetz\Documents\mymediabox_assessment\MyMediaboxAssessment\MyMediaboxAssessment\bin\Debug\MyMediaboxAssessment.exe
+C:\Users\Tom Ploetz\Documents\mymediabox_assessment\MyMediaboxAssessment\MyMediaboxAssessment\bin\Debug\MyMediaboxAssessment.pdb
+C:\Users\Tom Ploetz\Documents\mymediabox_assessment\MyMediaboxAssessment\MyMediaboxAssessment\obj\Debug\MyMediaboxAssessment.exe
+C:\Users\Tom Ploetz\Documents\mymediabox_assessment\MyMediaboxAssessment\MyMediaboxAssessment\obj\Debug\MyMediaboxAssessment.pdb
